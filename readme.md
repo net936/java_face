@@ -12,9 +12,7 @@
 演示地址：[https://face.gitapp.cn](https://face.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_face
 
 
 ## 主要功能
